@@ -4,7 +4,7 @@ a project in collaboration with [luiza dale](http://luizadale.com)
 a sequel of sorts to [jenny](http://luizadale.com/jenny)
 <br />
 users are invited to take part in an exciting employment opportunity at an agency called world group
-![performance](images/jenny_intro.mp4)
+![performance](images/jenny_intro.mov)
 <br />
 they attend meetings with a contract worker named jenny to get a hang of what world group
 ![performance](images/jenny_interface.mp4)
