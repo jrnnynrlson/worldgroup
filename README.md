@@ -11,7 +11,7 @@ text 'jenny' to 1.334.641.1003 for an invitation to take part in an exciting emp
 ~
 <br />
 attend meetings with a contract worker named jenny to get a hang of what world group is and represents
-![performance](images/wg_openup.png)
+![performance](images/wg_openupit.png)
 <br />
 ![performance](images/wg_meeting.png)
 <br />
